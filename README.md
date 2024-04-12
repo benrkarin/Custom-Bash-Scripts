@@ -1,4 +1,4 @@
-# Bioinformatics Bash Script Collection
+# Bioinformatics Bash Scripts
 
 I included several scripts for setting up input files for BPP and processing BPP results. 
 
